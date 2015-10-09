@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 55c4231852358504b94026a3d7f141e9
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - prefabProjectile: {fileID: 112302, guid: a433f9d675587e545a9b330db53b4f4b, type: 2}
+  - launchPoint: {instanceID: 0}
+  - projectile: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
